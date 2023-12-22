@@ -1,1 +1,1 @@
-This is project was created during studying API in JS. 
+<h1 align="center"> Hi, this is WEATHER APP! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h1>
