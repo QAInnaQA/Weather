@@ -1,6 +1,9 @@
 <h1 align="center"> Hi, this is WEATHER APP! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h1>
 <h3 align="center">By reproducing this application, I'm learning API in Java Script</h3>
-<img  align="center" src="https://images.unsplash.com/photo-1530563885674-66db50a1af19?q=80&w=2938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="weather" height="250" width="350">
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/q0DFcDMmGxc5uIKWR4/giphy-downsized-large.gif" width="250" height="250"/>
+</div>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/qainna/">
